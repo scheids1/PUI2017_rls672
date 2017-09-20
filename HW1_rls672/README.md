@@ -2,14 +2,14 @@ Assignment 1: Finish Lab
 
 Purpose/Learning Goals: To learn how to create and manage a git repo with Github. 
 
-Process: I followed instructions laid out in Prof. Bianco's github (Lab1_fb55). jss895 forked my repo (rls672) and I forked his (gittest_jss895). 
+Process: I followed instructions laid out in Prof. Bianco's github (Lab1_fb55). jss895 forked my repo (gittest_rls672) and I forked his (gittest_jss895). 
 
 
 
 
 Assignment 2: Set Up Environment 
 
-Purpose/Learning Goals: To correctly and efficiently set up environment using an environmental variable and an alias. 
+Purpose/Learning Goals: To correctly and efficiently set up environment using an environmental variable and an alias. To practice use git commands. 
 
 Process: 
 1) I created a directory called PUI2017 using mkdir 
