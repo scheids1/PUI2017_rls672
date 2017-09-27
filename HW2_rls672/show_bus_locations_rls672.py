@@ -8,17 +8,15 @@ except ImportError:
     import urllib.request as urllib 
 
 if not len(sys.argv) == 3: 
-    print('''Invalid number of arguments''') 
+    print('''Invalid number of arguments.  Script takes arguments as: python show_bus_locations.py <MTA_KEY> <BUS_LINE>''') 
     sys.exit()
 
 
-key = sys.argv[1]
+MTA_KEY = sys.argv[1]
 BUS_LINE = sys.argv[2]
 
 url = 'http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=' \
-    + key + '&VehicleMonitoringDetailLevel=calls&LineRef=' + BUS_LINE
-
-print(url)
+    + MTA_KEY + '&VehicleMonitoringDetailLevel=calls&LineRef=' + BUS_LINE
 
 response = urllib.urlopen(url)
 data = response.read().decode('utf-8')
