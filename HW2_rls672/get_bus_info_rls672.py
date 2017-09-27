@@ -9,6 +9,11 @@ try:
 except ImportError: 
     import urllib.request as urllib
 
+
+if not len(sys.argv) == 4: 
+    print('''Invalid number of arguments. Script takes arguments as: python get_bus_info.py <MTA_KEY> <BUS_LINE> <FILENAME.csv>''') 
+    sys.exit()
+
 key = sys.argv[1]
 route = sys.argv[2]
 
@@ -28,14 +33,14 @@ realtimebuses = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0][
 print('Bus Line : ', route)
 print('Number of Active Buses : ', len(realtimebuses))
 print('Latitude','Longitude','Stop Name','Stop Status')
-for bus in range(len(realtimebuses)):
-    longitude = str(realtimebuses[bus]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'])
-    latitude = str(realtimebuses[bus]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'])
-    stopname = str(realtimebuses[bus]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['StopPointName'])
-    status = str(realtimebuses[bus]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance'])
-    if not stopname: 
+for i in range(len(realtimebuses)):
+    longitude = str(realtimebuses[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'])
+    latitude = str(realtimebuses[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'])
+    if not (realtimebuses[i]['MonitoredVehicleJourney']['OnwardCalls']):
         stopname = 'N/A'
-    if not status: 
-        status = 'N/A'
+        status = 'N/A'  
+    else:
+        stopname = str(realtimebuses[i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['StopPointName'])
+        status = str(realtimebuses[i]['MonitoredVehicleJourney']['OnwardCalls']['OnwardCall'][0]['Extensions']['Distances']['PresentableDistance'])
     print(latitude + ',' + longitude + ',' + stopname + ',' + status)
     fout.write('{},{},{},{}\n'.format(latitude, longitude, stopname, status))
