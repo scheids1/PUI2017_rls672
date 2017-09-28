@@ -31,6 +31,7 @@ I referenced the class example (Formatting Tables) to understand how to use os.g
 
 I had to do some googling to check some of the plotting syntax. 
 
+I mentioned to a few classmates (Dana, Unisse, Sarah) you could look at datasets in Urban Profiler on CUSP. 
 
 Extra Credit
 
