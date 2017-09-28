@@ -14,7 +14,7 @@ if not len(sys.argv) == 4:
     print('''Invalid number of arguments. Script takes arguments as: python get_bus_info.py <MTA_KEY> <BUS_LINE> <FILENAME.csv>''') 
     sys.exit()
 
-key = sys.argv[1]
+MTA_KEY = sys.argv[1]
 route = sys.argv[2]
 
 fout = open(sys.argv[3], "w")
@@ -22,7 +22,7 @@ fout = open(sys.argv[3], "w")
 fout.write("Latitude,Longitude,Stop Name,Stop Status\n")
 
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + \
-key + '&VehicleMonitoringDetailLevel=calls&LineRef=' + route
+MTA_KEY + '&VehicleMonitoringDetailLevel=calls&LineRef=' + route
 
 response = urllib.urlopen(url)
 data = response.read()
