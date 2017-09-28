@@ -27,8 +27,8 @@ realtimebuses = data['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0][
 print('Bus Line : ', BUS_LINE)
 print('Number of Active Buses : ', len(realtimebuses))
 
-for bus in range(len(realtimebuses)):
-    BUS_LINE = str(realtimebuses[bus]['MonitoredVehicleJourney']['PublishedLineName'])
-    longitude = str(realtimebuses[bus]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'])
-    latitude = str(realtimebuses[bus]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'])
-    print("Bus " + str(bus) + " is at latitude " + latitude + " and longitude " + longitude)
+for i in range(len(realtimebuses)):
+    BUS_LINE = str(realtimebuses[i]['MonitoredVehicleJourney']['PublishedLineName'])
+    longitude = str(realtimebuses[i]['MonitoredVehicleJourney']['VehicleLocation']['Longitude'])
+    latitude = str(realtimebuses[i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude'])
+    print("Bus " + str(i) + " is at latitude " + latitude + " and longitude " + longitude)
