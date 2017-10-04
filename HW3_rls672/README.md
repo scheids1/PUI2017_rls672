@@ -8,5 +8,5 @@ For assignment 2, I worked with Emily P. on developing a question and hypothesis
 
 
 ### Assignment 3
-I worked with Emily, Dana, Matt, Kim, and Charlie. We all worked together to understand the assignment. I built off of the notebook we started in the class lab and utilized the slides.
+For assignment 3, I worked with Emily, Dana, Matt, Kim, and Charlie. We all worked together to understand the assignment. I built off of the notebook we started in the class lab and utilized the slides.
 
