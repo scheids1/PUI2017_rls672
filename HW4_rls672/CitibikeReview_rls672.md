@@ -1,6 +1,7 @@
 **I reviewed iuk202**
 
 **a) Verify that their Null and alternative hypotheses are formulated correctly**
+
 From notebook: https://github.com/scheids1/PUI2017_iuk202/blob/master/HW3_iuk202/HW3_2_iuk202.ipynb 
     we want to answer the question: do customers, on average, take bikes for longer rides than subscribers?
     null hypothesis: the average trip duration of 'customers' is the same or shorter than the average trip duration of    'subscribers' with a significance level of alpha = 0.05
