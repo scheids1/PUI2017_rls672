@@ -8,6 +8,7 @@ I worked with Dana, Sarah, Emily, and Matt to get started. Then I revised it on 
 
 I worked with Dana, Emily, and Matt. 
 
+I read the scipy documentation a few times to better understand the H0 and when you can/can't reject. 
 
 
 **Assignment 3**
