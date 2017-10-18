@@ -14,4 +14,5 @@ I worked with Dana, Emily, and Matt.
 
 I worked with Dana & Emily. 
 
-The plotting wasn't too bad, but I struggled with the model portion. 
+The plotting wasn't too bad, but I struggled with the model portion. In addition to stackoverflow, I referenced https://github.com/fedhere/PUI2017_fb55/blob/master/Lab5_fb55/line_fit_and_residuals.ipynb 
+
