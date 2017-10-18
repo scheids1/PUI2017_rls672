@@ -1,14 +1,17 @@
 **Assignment 1**
+
 I worked with Dana, Sarah, Emily, and Matt to get started. Then I revised it on my own. I did some googling to figure out how to fit the line. 
 
 
 
 **Assignment 2**
+
 I worked with Dana, Emily, and Matt. 
 
 
 
 **Assignment 3**
+
 I worked with Dana & Emily. 
 
 The plotting wasn't too bad, but I struggled with the model portion. 
