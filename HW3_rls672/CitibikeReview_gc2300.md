@@ -4,3 +4,5 @@ b. The data supports the project. The original data set was splited into two lis
 
 c. Since the research focuses on the means of two samples and the standard deviations of two population are unknown, the two-sample t statistic should be used.
 
+# FBB ok, this should be helpful to the author.  I had also asked to suggest improvements on the analysis
+
