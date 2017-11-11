@@ -1,6 +1,8 @@
-For assignment 1, I worked with Emily on writing the document and running the test. 
+**Assignment 1**, I worked with Emily on writing the document and running the test. 
 
-For assignment 2, I worked independently based on what we did in lab with Prof. Vo. 
+
+**Assignment 2**, I worked independently based on what we did in lab with Prof. Vo. 
+
 This https://stackoverflow.com/questions/41528403/syntaxerror-invalid-syntax-except-urllib2-httperror-e 
 
 and this https://stackoverflow.com/questions/11914472/stringio-in-python3 
