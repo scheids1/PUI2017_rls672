@@ -1,4 +1,4 @@
 For this assignment, I worked alone. 
 
 
-![Alt text](/screenshot.jpg?raw=true "Optional Title")
+![Alt text](/Visualization.jpg?raw=true "Optional Title")
