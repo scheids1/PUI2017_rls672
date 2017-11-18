@@ -3,13 +3,12 @@
 
 **CLARITY**: *****is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?*****
 
-The font and text size of all text are easy to read. The plot has a title and caption. The quantities are percentages with 
-one decimal point, which is easy to understand. 
+The font and text size of the titles and labels are easy to read. The plot has a title and caption. The quantities are percentages with one decimal point, which is easy to understand. 
 
 One confusing aspect is that the types of cuisine included change per season. For instance, the Winter plot has "Hamburgers", 
-which none of the other plots has. 
+which none of the other plots have. 
 
-Additionally, it is not clear exactly what the percent is. I imagine there are more cuisine types, so this cannot be the percent of total violations. Is it the top 8 cuisine types per season? 
+Additionally, it is not clear exactly what the percent is. I imagine there are more cuisine types, so this cannot be the percent of total violations. Is it the 100% divided by the top 8 cuisine types per season? 
 
 
 **ESTHETIC**: *****beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is 
@@ -20,9 +19,10 @@ Are the graphical choices allowing you to focus on the right elements or are the
 The colors as they correspond to cuisine type changes throghout the four plots. For example, in the Spring plot, 
 "American" is orange, but in the other three plots, it is blue. 
 
-Each pie chart is easy to read on its own, but when plotted together, it is overwhelming and difficult to compare across all 
-four. I think a bar plot might be a better option, which I think would make it easier to compare both season 
+When checking for colorblind standards, it becomes challenging or impossible to differentiate many of the colors. Because the labels are there, you could still convey the point, but it makes it less clear. 
 
+Each pie chart is easy to read on its own, but when plotted together, it is overwhelming and difficult to compare across all 
+four. I think a bar plot might be a better option, which I think would make it easier to compare both season and cuisine type.
 
 
 **HONESTY**: *****is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?*****
@@ -34,7 +34,12 @@ However, I would be curious to know how often inspections are done. For instance
 
 **IMPROVEMENTS TO EACH PLOT**
 
-Improvements could be made by rectifying the issues outlined above (making data clearer, consistent colors, same cuisine types, etc) 
+All the mentioned critiques are areas of improvement. I think the most important 2 improvements are: 
+
+- Make colors colorblind friendly 
+- Clarify what the quantity being plotted is
+
+Overall, I think this data could be better conveyed in a singular plot, rather than 4 plots. 
 
 
 Reviewed by: rls672 (Rebecca) 
