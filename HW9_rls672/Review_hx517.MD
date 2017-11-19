@@ -4,6 +4,7 @@
 **CLARITY**: *****is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?*****
 
 The map makes it easy to notice trends. However, the plots needs a colorbar legend. I could *****assume***** that the darker blues mean higher AGI, but without a legend, I cannot be certain. 
+
 Without knowing the quantities or legend, little information can be derived from this plot. For instance, I can tell that the Bronx is different from Brooklyn, but cannot be certain in what way.
 
 The plot has a title, but lacks an informative caption. 
@@ -18,10 +19,9 @@ The colors seem to be fine for color-blindness and are not distracting.
 Mapping at the zip code levels provides an ability to discern trends, but is not overly granular. 
 
 
-
 **HONESTY**: *****is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?*****
 
-The plot doesn't seem to be deforming data. One interesting element is that Central Park is dark blue. As no one "lives" in Central Park, there cannot be an AGI value.
+The plot doesn't seem to be deforming data. One interesting element is that Central Park is dark blue. As no one "lives" in Central Park, there cannot be an AGI value. 
 
 
 **IMPROVEMENTS TO PLOT**
