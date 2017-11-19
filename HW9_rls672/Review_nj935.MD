@@ -31,6 +31,7 @@ Without being overly familiar with the underlaying data, the plot does not seem 
 
 However, I would be curious to know how often inspections are done. For instance, perhaps it just so happens that signficantly more American restaurants are inspected during summer, and thus account for more of the violations. Domain knowledge would be useful here. 
 
+Additionally, I would imagine there are just more American restaurants in general, so it isn't surprising that they account for a higher percentage of violations. A more interesting question might be what percent of of each cuisine type has violations (ie 250 out of 1000 American restaurants had violations (25%) versus 75 out out 100 pizza restaurants (75%)). 
 
 **IMPROVEMENTS TO EACH PLOT**
 
@@ -45,7 +46,10 @@ Overall, I think this data could be better conveyed in a singular plot, rather t
 
 
 **Review of Extra Plot** 
+
 Quick review: 
+
+Main Suggestions for Improvement: 
 - Y axis needs label
 - If trying to compare across seasons, keep the ylim the same (350 seems appropriate)
 
