@@ -47,7 +47,7 @@ Overall, I think this data could be better conveyed in a singular plot, rather t
 
 **Review of Extra Plot** 
 
-Quick review: 
+Quick review: It is useful seeing the absolute terms of violations to get a better idea of what the data means. It is still challenging to compare across seasons and cuisine types. 
 
 Main Suggestions for Improvement: 
 - Y axis needs label
