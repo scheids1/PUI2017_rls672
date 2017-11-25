@@ -8,3 +8,6 @@ By backup review was hx517. I also reviewed his, as I was enjoying the process o
 
 
 **Assignment 2** 
+
+
+I started working on Assignment 2 with Julian & Juan (getting API, etc).
