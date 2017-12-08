@@ -3,3 +3,7 @@ I worked with people to understand the structure of the data and to compare resu
 Collaborated with: Emily, Dana, Matt, Julian 
 
 I also utilized Prof Bianco’s notebooks from Lab 10 https://github.com/fedhere/UInotebooks/tree/master/timeseries (particularly for task 3) 
+
+
+
+For the extra credit, I relied on materials from ADS. 
