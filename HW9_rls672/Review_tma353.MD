@@ -20,6 +20,7 @@ Because the units are so far from the plotted bars, it is challenging to estimat
 There is a lot of white space in the plot where no bars are plotted or are so short there can be barely seen. It may be better to leave out typologies that do not have material values, unless that it something that is important to communicate to your given audience. 
 
 The plot uses a singular color for the plotting, which is adaquete and non-distracting. The plot appears colorblind friendly. 
+# FBB the differnt color for the axis labels is not motivated and distracting
 
 **HONESTY**: *****is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?*****
 
@@ -37,3 +38,10 @@ All the mentions critiques above could be incorporated to improve the plot. I th
 
 
 Reviewed by: rls672 (Rebecca) 
+
+# FBB ok
+I explicitly asked that the plot is included and renders in the review markdown.
+
+labels are far too small to be readable whather the plot was intended to be printed or to be shown on a screen. 
+
+8.5/10
