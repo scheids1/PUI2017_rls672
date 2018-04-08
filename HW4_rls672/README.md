@@ -1,13 +1,4 @@
-**Goal of Assignment 1**
 
-
-**Goal of Assignment 2**
-
-
-**Goal of Assignment 3**
-
-
-**Goal of Assignment 4**
 
 
 
