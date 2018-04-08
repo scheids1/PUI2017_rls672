@@ -2,6 +2,8 @@
 
 **Goal of Assignment 2**: Add in NextStop to the script & have it output to csv
 
-**Goal of Assignment 3**: Practice pandas 
+**Goal of Assignment 3**: Practice pandas & make a graph
+
+**Goal of Extra Credit**: More pandas & graphs
 
 
