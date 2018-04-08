@@ -1,23 +1,13 @@
-**Assignment 1**
-
-I worked alone. 
+**Goal of Assignment 1**
 
 
-**Assignment 2**
-
-I worked alone. 
+**Goal of Assignment 2**
 
 
-**Assignment 3**
-
-I did a lot of googling (YouTube videos, stackoverflow, etc) and reading scipy documentation. 
+**Goal of Assignment 3**
 
 
-**Assignment 4**
-
-I worked with Dana, Jack, Prince, and Emily P. I also went to Dr. Bianco's office hours to find out how to divide rides in Manhattan/Brooklyn. 
-
-
+**Goal of Assignment 4**
 
 
 

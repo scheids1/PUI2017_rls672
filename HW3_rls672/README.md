@@ -1,12 +1,9 @@
-### Assignment 1
-For assignment 1, I worked primarily with Emily P. I struggled to understand the concepts around distributions, but it made more sense as I did the work. 
+**Goal of Assignment 1**: Practice with distributions 
 
 
-### Assignment 2
-For assignment 2, I worked with Emily P. on developing a question and hypothesis. We worked equally together on working with the pandas dataframes and coming up with different types of plots. This wasn't too difficult, having worked with pandas and the citibike data before. 
+**Goal of Assignment 2**: Develop a question/hypothesis using CitiBike data; Explore question/hypothesis with pandas and plotting 
 
 
 
-### Assignment 3
-For assignment 3, I worked with Emily, Dana, Matt, Kim, and Charlie. We all worked together to understand the assignment. I built off of the notebook we started in the class lab and utilized the slides.
+**Goal of Assignment 3**: Do a z-test
 
